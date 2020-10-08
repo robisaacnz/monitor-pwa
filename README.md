@@ -8,8 +8,3 @@
 * Even with a good HDMI capture device, there's still 20-30ms of latency, so depending on what you want to do, this might be a problem.
 * TV gamma settings are usually quite different to computer gamma settings, which can make the monitored video look dark and gloomy. There are filters that could fix this but it's highly subjective and adds more latency.
 * There's no audio feedback protection because it introduces too much latency, and the system default inputs are monitored when the app first loads. Temporarily mute either your input or your output if you're using this in a noisy environment, otherwise you will make bystanders very angry.
-
-## Screenshots
-<img src="screenshots/screenshot-1.png">
-<img src="screenshots/screenshot-2.png">
-<img src="screenshots/screenshot-3.png">
