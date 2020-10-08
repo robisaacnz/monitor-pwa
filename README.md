@@ -2,6 +2,8 @@
  This is a crude, cobbled-together attempt to port the [Monitor Electron app](https://github.com/robisaacnz/monitor) to a Progressive Web App, so it can be used on Chrome OS. It doesn't work yet.
  
  The use case is to take a video and audio input from a camera or capture device, and display the video in a window while playing the audio through to the default output. In this way, you can turn your $3000 Chromebook Pixel into a $200 BVM, and (for example) play games from a nearby PlayStation through a capture device.
+
+ <a class="buttons github" href="https://github.com/robisaacnz/monitor-pwa/app.html">Try it</a>
  
 ## Known issues
 * Resolutions higher than 1080p are not currently supported.
